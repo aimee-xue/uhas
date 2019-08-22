@@ -136,4 +136,9 @@
 
 ![](/images/common/图片17.png)
 ## 12\. 客户端配置登录
-![](/images/common/图片18.png)
+
+![](/images/common/图片38.png)
+![](/images/common/图片39.png)
+## 13\. 客户端配置文件下载
+![](/images/common/图片40.png)
+
