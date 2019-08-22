@@ -141,5 +141,6 @@
 ![](/images/common/图片39.png)
 ## 13\. 客户端配置文件下载
 
+配置文件中包含配置指导，目前支持Secure CRT和Xshell
 ![](/images/common/图片40.png)
 
